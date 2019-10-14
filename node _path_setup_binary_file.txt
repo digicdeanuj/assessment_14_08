@@ -1,0 +1,9 @@
+go to user -> your user ther AppData->Roaming
+make one folder npm
+copy all the items of node downloaded files and paste it into the npm folder
+
+ now take two paths 1) C:\Users\anuj.d.agarwal\AppData\Roaming\npm
+
+		    2) C:\Users\anuj.d.agarwal\AppData\Roaming\npm\node_modules\npm\bin
+
+
