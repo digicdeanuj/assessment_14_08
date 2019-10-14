@@ -17,7 +17,7 @@ handleChange=(event)=>{
 		this.props.onUpdateOriginalFields(this.state.clonedList.field_label,event.target.value);
 	}
 }
-handleDropdownChange=(event)=>{
+handleDropdownChange=(event)=>{ 
 	if(event.target.value){
 		this.setState({setDropdownData: event.target.value});
 		this.props.onUpdateOriginalFields(this.state.clonedList.field_label,event.target.value);
